@@ -401,19 +401,7 @@ pip install -r requirements-dev.txt   # linting + test extras
 
 # Run tests before submitting a PR
 python -m pytest -q
-```
 
-Please open an **[issue](https://github.com/YOUR-USERNAME/metadata-bn/issues)** before starting significant work so we can align on approach.
-
-### Contributors
-
-<div align="center">
-  <a href="https://github.com/YOUR-USERNAME/metadata-bn/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=YOUR-USERNAME/metadata-bn" alt="Contributors"/>
-  </a>
-</div>
-
----
 ## 📄 License
 
 Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
