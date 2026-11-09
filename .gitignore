@@ -1,0 +1,20 @@
+# data & results (large / regenerable) - never commit these
+*.sqlite
+*.sqlite.gz
+*.db
+results/
+studies*.csv
+imputed.csv
+model.pkl
+report.txt
+network.png
+!docs/*.png
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
