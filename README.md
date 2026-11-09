@@ -414,17 +414,6 @@ Please open an **[issue](https://github.com/YOUR-USERNAME/metadata-bn/issues)** 
 </div>
 
 ---
-
-## 📈 Star History
-
-<div align="center">
-  <a href="https://star-history.com/#YOUR-USERNAME/metadata-bn&Date">
-    <img src="https://api.star-history.com/svg?repos=YOUR-USERNAME/metadata-bn&type=Date&theme=dark" alt="Star History Chart" width="80%"/>
-  </a>
-</div>
-
----
-
 ## 📄 License
 
 Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
