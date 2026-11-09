@@ -386,28 +386,6 @@ flowchart LR
     style H fill:#1e3a5f,color:#93c5fd,stroke:#3b82f6
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get started:
-
-```bash
-# Fork the repo, then:
-git clone https://github.com/YOUR-USERNAME/metadata-bn.git
-cd metadata-bn
-pip install -r requirements.txt
-pip install -r requirements-dev.txt   # linting + test extras
-
-# Run tests before submitting a PR
-python -m pytest -q
-
-## 📄 License
-
-Distributed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
-
----
-
 <!-- Wave Banner Bottom -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
